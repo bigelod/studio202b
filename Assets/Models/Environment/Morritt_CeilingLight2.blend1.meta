@@ -3,9 +3,15 @@ fileFormatVersion: 2
 guid: 34caa7978b90d8842b82765e072d207d
 timeCreated: 1491334870
 =======
+<<<<<<< HEAD
 guid: 336cbb890092d424ab41c9cd14eefc37
 timeCreated: 1491338574
 >>>>>>> 7a6522ec23cc1b0a9f661e3afc73aba127729806
+=======
+guid: 6f0d7e06eaa5ae94a80290e77834448f
+timeCreated: 1491337572
+>>>>>>> 2da60aa9a69f3aa4bde12ebe7b6bcdff66aa3268
+>>>>>>> 062b3b77af01e3567e7e73ae907beaea182518b0
 licenseType: Free
 DefaultImporter:
   userData: 

@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Models/Environment/Morritt_WaterFountain.blend.meta
 guid: d15350a076340d849a7f77acb2ed949f
 timeCreated: 1491335810
+=======
+guid: 3c98b27ffc7ed7443b378a3dc12481a8
+timeCreated: 1491338313
+>>>>>>> 2da60aa9a69f3aa4bde12ebe7b6bcdff66aa3268:Assets/Models/Environment/Morritt_WaterFountain.blend.meta
 licenseType: Free
 ModelImporter:
   serializedVersion: 19

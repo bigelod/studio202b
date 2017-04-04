@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Models/Environment/Morritt_CeilingVent.blend.meta
 guid: 9881013361b0a4143a97243036daea41
 timeCreated: 1491335615
+=======
+guid: 415cf74cff01bdc43a93df0fc97b0cf4
+timeCreated: 1491338321
+>>>>>>> 2da60aa9a69f3aa4bde12ebe7b6bcdff66aa3268:Assets/Models/Environment/Morritt_CeilingVent.blend.meta
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
