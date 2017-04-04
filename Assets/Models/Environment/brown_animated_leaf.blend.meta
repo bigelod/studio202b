@@ -1,6 +1,26 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: b744e5283cb106b4a868bd333b57c6f6
+timeCreated: 1491257480
+=======
+<<<<<<< HEAD
 guid: f4da9a27cf6f7ff4b9718c339a2e99a2
 timeCreated: 1491261526
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+guid: 3bec76bcbbb644325ba2ffbd3c3a0c5f
+timeCreated: 1491332236
+>>>>>>> 6fdbd4b4c5240737bb4efcac69936d5f7b13aa8d
+=======
+guid: 81b8c8ba820040b459cf0038ff034834
+timeCreated: 1491259072
+>>>>>>> 7419b00aae86dc8e387217045a3a600cebca3683
+=======
+guid: f4da9a27cf6f7ff4b9718c339a2e99a2
+timeCreated: 1491261526
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
 licenseType: Free
 ModelImporter:
   serializedVersion: 19

@@ -1,7 +1,28 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 guid: e2e014d7d794162438f0fae2555fd467
 timeCreated: 1491240326
 licenseType: Free
+=======
+guid: b4274b70cf8af09449a54fc9f329e4aa
+>>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+guid: b4274b70cf8af09449a54fc9f329e4aa
+=======
+guid: b4274b70cf8af09449a54fc9f329e4aa
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
+=======
+guid: e2e014d7d794162438f0fae2555fd467
+timeCreated: 1491240326
+licenseType: Free
+<<<<<<< HEAD
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -9,7 +30,28 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     4300000: Sound_Box_Window
+=======
+    4300000: Cube_004
+    4300002: Sound_Box_Window
+>>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    4300000: Cube_004
+    4300002: Sound_Box_Window
+=======
+    4300000: Sound_Box_Window
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+    4300000: Cube_004
+    4300002: Sound_Box_Window
+=======
+    4300000: Sound_Box_Window
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -36,7 +78,25 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 1
+=======
+    globalScale: 0
+>>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    globalScale: 0
+=======
+    globalScale: 1
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+    globalScale: 0
+=======
+    globalScale: 1
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
