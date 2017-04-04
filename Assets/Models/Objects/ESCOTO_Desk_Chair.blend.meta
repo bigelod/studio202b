@@ -1,6 +1,20 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
 guid: 094960caa18d0ad459861fdc6c906d5f
 timeCreated: 1491239891
+=======
+guid: ce06998f21acc01459805600863b7359
+timeCreated: 1490838435
+>>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+guid: ce06998f21acc01459805600863b7359
+timeCreated: 1490838435
+=======
+guid: 094960caa18d0ad459861fdc6c906d5f
+timeCreated: 1491239891
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
