@@ -1,11 +1,15 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: a48b35c08123c6d49ad4720f7b762a1b
 =======
 guid: 579d472c2798b5744841df4965a54de2
 timeCreated: 1491239998
 licenseType: Free
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+guid: a48b35c08123c6d49ad4720f7b762a1b
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -14,11 +18,15 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
 <<<<<<< HEAD
+<<<<<<< HEAD
     4300000: Cube_018
     4300002: Sound_foam
 =======
     4300000: Sound_foam
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    4300000: Sound_foam
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -46,10 +54,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 0
 =======
     globalScale: 1
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    globalScale: 0
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

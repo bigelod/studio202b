@@ -1,11 +1,15 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: b4274b70cf8af09449a54fc9f329e4aa
 =======
 guid: e2e014d7d794162438f0fae2555fd467
 timeCreated: 1491240326
 licenseType: Free
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+guid: b4274b70cf8af09449a54fc9f329e4aa
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -14,11 +18,15 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
 <<<<<<< HEAD
+<<<<<<< HEAD
     4300000: Cube_004
     4300002: Sound_Box_Window
 =======
     4300000: Sound_Box_Window
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    4300000: Sound_Box_Window
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -46,10 +54,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 0
 =======
     globalScale: 1
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    globalScale: 0
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

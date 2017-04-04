@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
 guid: 7b829f1d3a9406947b849a9a63b1ee00
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+<<<<<<< HEAD
     100000: Cube
     100002: Cube_001
     100004: Cube_002
@@ -73,6 +77,8 @@ licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+=======
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     100000: Door_Frame
     100002: Handle
     100004: Handle_Bar
@@ -105,7 +111,10 @@ ModelImporter:
     4300006: Handle
     4300008: Handle_Bottom
     4300010: Door_Frame
+<<<<<<< HEAD
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -133,10 +142,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 0
 =======
     globalScale: 1
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    globalScale: 0
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
