@@ -16,6 +16,9 @@ var sendAngle = true; //Send our angle?
 
 var triggerChange = false; //Trigger the changeover?
 
+var debugMode = true; //Can level skip?
+var skipLevelKey = "k"; //Key to skip level?
+
 function Start () {
     if (levelName == "") {
         Debug.Log("No level name entered!");
@@ -35,7 +38,7 @@ function Update() {
         }
     }
 
-    if (triggerChange) {
+    if (triggerChange || (debugMode && Input.GetKeyDown(skipLevelKey))) {
         //Triggering a change removes the forces
         forcePosition = false;
         sendAngle = false;
