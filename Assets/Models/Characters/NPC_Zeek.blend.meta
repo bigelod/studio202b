@@ -56,7 +56,7 @@ ModelImporter:
     13700000: Plane
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
@@ -74,11 +74,291 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/Torso
+        weight: 1
+      - path: Armature/Hip/Torso/Head
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L/Foot_L_001
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R/Foot_R_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sit
+      takeName: Sit
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/Torso
+        weight: 1
+      - path: Armature/Hip/Torso/Head
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L/Foot_L_001
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R/Foot_R_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/Torso
+        weight: 1
+      - path: Armature/Hip/Torso/Head
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L/Foot_L_001
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R/Foot_R_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk2
+      takeName: Walk2
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/Torso
+        weight: 1
+      - path: Armature/Hip/Torso/Head
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Hip/Torso/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Hip/UpperLeg_L/LowerLeg_L/Foot_L/Foot_L_001
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Hip/UpperLeg_R/LowerLeg_R/Foot_R/Foot_R_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

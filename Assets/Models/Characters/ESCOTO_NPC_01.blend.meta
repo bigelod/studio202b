@@ -1,78 +1,18 @@
 fileFormatVersion: 2
 guid: a7a09c015c22d274eaf4ba2a1b7214f5
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: a7a09c015c22d274eaf4ba2a1b7214f5
-timeCreated: 1490838402
-=======
-guid: c26f929e4ef42a54ea106c6e7335f9fa
-timeCreated: 1491240281
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
-licenseType: Free
-=======
-guid: a7a09c015c22d274eaf4ba2a1b7214f5
->>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
->>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
-=======
->>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-<<<<<<< HEAD
-<<<<<<< HEAD
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cube
-=======
-<<<<<<< HEAD
-    400002: Plane
-    400004: Plane_001
-    400006: Sphere
-    400008: Torus_002
-    2300000: Plane
-    2300002: Plane_001
-    2300004: Sphere
-    2300006: Torus_002
-<<<<<<< HEAD
-=======
-    2300008: //RootNode
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
-    3300000: Plane
-    3300002: Plane_001
-    3300004: Sphere
-    3300006: Torus_002
-<<<<<<< HEAD
-=======
-    3300008: //RootNode
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
-    4300000: Plane_001
-    4300002: Sphere
-    4300004: Torus_002
-    4300006: Plane
-<<<<<<< HEAD
-=======
-    4300008: Cube
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
-=======
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cube
->>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
->>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
-=======
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cube
->>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959
     7400000: Default Take
     9500000: //RootNode
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
@@ -94,7 +34,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

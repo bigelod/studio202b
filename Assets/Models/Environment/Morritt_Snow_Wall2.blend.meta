@@ -1,22 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 guid: 753eadf393efe5545bad17df3f48fd0b
-=======
-guid: 0ec1d644ac4ff40ec926d210a400db3b
-timeCreated: 1491339001
-=======
-guid: 2e7e29482a31d4b388ff1398f919614d
-timeCreated: 1491335507
->>>>>>> f4d34b6f85953a5f61a1968de1b95abdf73ec38c
-licenseType: Free
->>>>>>> 3c566271ccb51647db310d5ef0145a6139e8c380
-=======
-guid: 0ab0fed8ab5cbb84aad12c458646d0bf
-timeCreated: 1491338478
-licenseType: Free
->>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -29,7 +12,7 @@ ModelImporter:
     9500000: //RootNode
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 2
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
@@ -51,15 +34,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-<<<<<<< HEAD
-<<<<<<< HEAD
-    globalScale: 0
-=======
     globalScale: 1
->>>>>>> 3c566271ccb51647db310d5ef0145a6139e8c380
-=======
-    globalScale: 1
->>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
