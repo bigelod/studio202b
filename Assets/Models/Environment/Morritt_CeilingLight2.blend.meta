@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -8,6 +9,10 @@ guid: acf3daf57c22f48428a77f53ca5689ef
 =======
 guid: b4115d06ea1f17342812c89d04a9fafd
 timeCreated: 1491240261
+=======
+guid: 04ad376996b0bc04e98b640af4a09818
+timeCreated: 1491338472
+>>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
 licenseType: Free
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
 =======

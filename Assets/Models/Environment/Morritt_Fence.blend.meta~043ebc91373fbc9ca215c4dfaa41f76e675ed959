@@ -1,22 +1,7 @@
 fileFormatVersion: 2
-guid: b5db2778ac344274c8efea459304781a
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: b5db2778ac344274c8efea459304781a
-timeCreated: 1491197175
-=======
-guid: f9c9753ae9f04a8479d15ca5519a6544
-timeCreated: 1491240411
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+guid: c2927d5699104c94bac01e5638903ace
+timeCreated: 1491338765
 licenseType: Free
-=======
-guid: b5db2778ac344274c8efea459304781a
->>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
->>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
-=======
->>>>>>> 043ebc91373fbc9ca215c4dfaa41f76e675ed959
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -24,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
+    4300000: NurbsPath
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -51,7 +36,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
