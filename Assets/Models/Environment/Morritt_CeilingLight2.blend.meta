@@ -1,11 +1,27 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:Assets/Models/Environment/SherriMurray_LoveSeat.blend.meta
+<<<<<<< HEAD
+guid: acf3daf57c22f48428a77f53ca5689ef
+=======
+guid: b4115d06ea1f17342812c89d04a9fafd
+timeCreated: 1491240261
+licenseType: Free
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+>>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
 guid: 7e9a744f5862d9d4184db5836404b69f
 =======
 guid: 75da617762842419bbc90ac29c8d29ce
 timeCreated: 1491339541
 licenseType: Free
+<<<<<<< HEAD
 >>>>>>> 3c566271ccb51647db310d5ef0145a6139e8c380
+=======
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
+>>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -68,10 +84,21 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD:Assets/Models/Environment/SherriMurray_LoveSeat.blend.meta
+>>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
+<<<<<<< HEAD
     globalScale: 0
 =======
     globalScale: 1
+<<<<<<< HEAD
 >>>>>>> 3c566271ccb51647db310d5ef0145a6139e8c380
+=======
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+    globalScale: 1
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
+>>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

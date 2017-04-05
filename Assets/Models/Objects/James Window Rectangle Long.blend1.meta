@@ -23,6 +23,7 @@ timeCreated: 1490837775
 =======
 guid: a3c8aca2b000a8a4982676d04d0977b0
 timeCreated: 1491239834
+<<<<<<< HEAD
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
 >>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
 =======
@@ -31,6 +32,13 @@ guid: a3c8aca2b000a8a4982676d04d0977b0
 timeCreated: 1491239834
 >>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
 >>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
+=======
+<<<<<<< HEAD
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+=======
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866
+>>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
 licenseType: Free
 DefaultImporter:
   userData: 
