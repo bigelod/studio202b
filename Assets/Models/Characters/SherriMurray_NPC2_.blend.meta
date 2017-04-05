@@ -1,42 +1,63 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 496f9b81c7112b743b58b2420a925e2f
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 1d1e24a830a8a094daadb1f47b8c70e9
-timeCreated: 1491239923
-=======
-guid: 496f9b81c7112b743b58b2420a925e2f
-timeCreated: 1491195359
->>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
-=======
-=======
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
-guid: 496f9b81c7112b743b58b2420a925e2f
-timeCreated: 1491195359
-=======
-guid: 1d1e24a830a8a094daadb1f47b8c70e9
-timeCreated: 1491239923
-<<<<<<< HEAD
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
->>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
-=======
->>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
-licenseType: Free
->>>>>>> 47aa53a7a4356f22001052eb178232dbaa869206
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cube
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_010
+    100024: Bone_011
+    100026: Bone_012
+    100028: Bone_013
+    100030: Bone_014
+    100032: Bone_015
+    100034: Bone_016
+    100036: Bone_017
+    100038: Bone_018
+    100040: Bone_019
+    100042: Cube
+    100044: //RootNode
+    100046: Torus
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_010
+    400024: Bone_011
+    400026: Bone_012
+    400028: Bone_013
+    400030: Bone_014
+    400032: Bone_015
+    400034: Bone_016
+    400036: Bone_017
+    400038: Bone_018
+    400040: Bone_019
+    400042: Cube
+    400044: //RootNode
+    400046: Torus
+    2300000: Torus
+    3300000: Torus
+    4300000: Torus
+    4300002: Cube
     7400000: Default Take
     9500000: //RootNode
+    13700000: Cube
   materials:
     importMaterials: 1
     materialName: 0

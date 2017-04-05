@@ -1,32 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: a48b35c08123c6d49ad4720f7b762a1b
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 579d472c2798b5744841df4965a54de2
-timeCreated: 1491239998
-licenseType: Free
-=======
-guid: a48b35c08123c6d49ad4720f7b762a1b
->>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
-=======
-guid: a48b35c08123c6d49ad4720f7b762a1b
-=======
-guid: a48b35c08123c6d49ad4720f7b762a1b
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
-=======
-guid: 579d472c2798b5744841df4965a54de2
-timeCreated: 1491239998
-licenseType: Free
-<<<<<<< HEAD
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
->>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
-=======
->>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
->>>>>>> 47aa53a7a4356f22001052eb178232dbaa869206
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -34,32 +7,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-<<<<<<< HEAD
     4300000: Sound_foam
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    4300000: Sound_foam
-=======
-    4300000: Cube_018
-    4300002: Sound_foam
->>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
-=======
-    4300000: Cube_018
-    4300002: Sound_foam
-=======
-    4300000: Sound_foam
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
->>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
-=======
-    4300000: Cube_018
-    4300002: Sound_foam
-=======
-    4300000: Sound_foam
->>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
->>>>>>> 47aa53a7a4356f22001052eb178232dbaa869206
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -86,29 +34,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-<<<<<<< HEAD
     globalScale: 0
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    globalScale: 1
-=======
-    globalScale: 0
->>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
-=======
-    globalScale: 0
-=======
-    globalScale: 1
->>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
->>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
-=======
-    globalScale: 0
-=======
-    globalScale: 1
->>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
->>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
->>>>>>> 47aa53a7a4356f22001052eb178232dbaa869206
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
