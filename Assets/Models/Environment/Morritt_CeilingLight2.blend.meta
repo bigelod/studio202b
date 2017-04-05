@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27,6 +28,9 @@ licenseType: Free
 =======
 >>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
 >>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
+=======
+guid: 16596e7aafd7f4a88856e62aedce6a00
+>>>>>>> f4d34b6f85953a5f61a1968de1b95abdf73ec38c
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -89,6 +93,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD:Assets/Models/Environment/SherriMurray_LoveSeat.blend.meta
 >>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
@@ -104,6 +109,9 @@ ModelImporter:
     globalScale: 1
 >>>>>>> 22ca5de26a5783ce79e5fc896230bb919c575866:Assets/Models/Environment/Morritt_CeilingLight2.blend.meta
 >>>>>>> f9358033afd54dbfc3f801ec03736f3f276fa38e
+=======
+    globalScale: 0
+>>>>>>> f4d34b6f85953a5f61a1968de1b95abdf73ec38c
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
