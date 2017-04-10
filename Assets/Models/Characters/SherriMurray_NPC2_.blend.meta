@@ -27,6 +27,17 @@ ModelImporter:
     100042: Cube
     100044: //RootNode
     100046: Torus
+    100048: Bone_020
+    100050: Bone_021
+    100052: Bone_022
+    100054: Bone_023
+    100056: Bone_024
+    100058: Bone_025
+    100060: Bone_026
+    100062: Bone_027
+    100064: Cube_001
+    100066: Cube_001_MeshPart0
+    100068: Cube_001_MeshPart1
     400000: Armature
     400002: Bone
     400004: Bone_001
@@ -51,13 +62,29 @@ ModelImporter:
     400042: Cube
     400044: //RootNode
     400046: Torus
+    400048: Bone_020
+    400050: Bone_021
+    400052: Bone_022
+    400054: Bone_023
+    400056: Bone_024
+    400058: Bone_025
+    400060: Bone_026
+    400062: Bone_027
+    400064: Cube_001
+    400066: Cube_001_MeshPart0
+    400068: Cube_001_MeshPart1
     2300000: Torus
     3300000: Torus
     4300000: Torus
     4300002: Cube
+    4300004: Cube_001_MeshPart0
+    4300006: Cube_001_MeshPart1
     7400000: Default Take
+    7400002: Walk
     9500000: //RootNode
     13700000: Cube
+    13700002: Cube_001_MeshPart0
+    13700004: Cube_001_MeshPart1
   materials:
     importMaterials: 1
     materialName: 2

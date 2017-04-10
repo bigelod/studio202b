@@ -540,6 +540,7 @@ MonoBehaviour:
   dataScript: {fileID: 0}
   createdThisTime: 0
   skipSpawnPoint: 0
+  wipeTheData: 1
 --- !u!114 &819495844
 MonoBehaviour:
   m_ObjectHideFlags: 0

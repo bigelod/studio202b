@@ -117,3 +117,7 @@ function getNumOfItem(item) {
 
     return ans;
 }
+
+function clearInventory() {
+    inventory.clear();
+}

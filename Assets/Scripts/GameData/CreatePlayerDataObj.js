@@ -7,6 +7,8 @@ var dataScript : PlayerDataHolder; //The actual script holding our between-level
 var createdThisTime = false; //Whether we created it this scene or not, if not then we go to the spawn point we are told!
 var skipSpawnPoint = false; //Skip going to a spawn point? Set in editor!
 
+var wipeTheData = false; //Wipe the data on this scene?
+
 function Awake () {
     if (dataObj == null) {
         //We don't have a playerData object assigned, try and find it!
@@ -23,6 +25,16 @@ function Awake () {
         //We have a playerDataObj now, let's get its script
 
         dataScript = dataObj.GetComponent.<PlayerDataHolder>();
+    }
+
+    if (dataScript != null) {
+        if (wipeTheData && !createdThisTime) {
+            //Already exists so we wipe it
+            dataScript.clearInventory();
+        }
+    }
+    else {
+        Debug.Log("WARNING: No data script!!");
     }
 
     if (!skipSpawnPoint && !createdThisTime && !dataScript.ignoreSpawnPoint) {
